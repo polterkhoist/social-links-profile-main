@@ -73,6 +73,10 @@ body {
     margin: auto;
 }
 
+.attribution {
+    color: var(--neon-green);
+}
+
 /* HEADINGS */
 
 h1 {
